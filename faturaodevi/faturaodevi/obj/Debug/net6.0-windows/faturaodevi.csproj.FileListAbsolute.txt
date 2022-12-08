@@ -1,0 +1,34 @@
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.csproj.AssemblyReference.cache
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.Form1.resources
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.csproj.GenerateResource.cache
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.AssemblyInfoInputs.cache
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.AssemblyInfo.cs
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.csproj.CoreCompileInputs.cache
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.exe
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.deps.json
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.runtimeconfig.json
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.dll
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.pdb
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.dll
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\refint\faturaodevi.dll
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.pdb
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.genruntimeconfig.cache
+C:\Users\keren\OneDrive\Masaüstü\tüm kodarım\c#\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\ref\faturaodevi.dll
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.exe
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.deps.json
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.runtimeconfig.json
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.dll
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\bin\Debug\net6.0-windows\faturaodevi.pdb
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.csproj.AssemblyReference.cache
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.Form1.resources
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.csproj.GenerateResource.cache
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.AssemblyInfoInputs.cache
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.AssemblyInfo.cs
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.csproj.CoreCompileInputs.cache
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.dll
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\refint\faturaodevi.dll
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.pdb
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\faturaodevi.genruntimeconfig.cache
+C:\Users\keren\Desktop\kodlar\faturaodevi\faturaodevi\obj\Debug\net6.0-windows\ref\faturaodevi.dll
