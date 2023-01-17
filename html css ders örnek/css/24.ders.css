@@ -1,0 +1,40 @@
+/*span{
+    border: 2px solid red ;
+    margin: 5px ;
+    display: block ;
+    padding: 10px ;   
+}      */ 
+/*.sp-span{
+    border: 2px solid red ;
+    margin: 5px ;
+    display: block ;
+    padding: 10px ;
+}*/
+.sp-span{
+    border: 2px solid red ;
+    margin: 5px ;
+    display: inline ;
+    padding: 10px ;
+}
+ul{
+    list-style-type: none ;
+}
+ul > li{
+    display:inline ;
+
+}
+ul > li > a{
+    text-decoration: none ;
+    color: darkred ;
+    font-size: 18px ;
+    padding: 5px ;
+    margin: 10px ;
+}
+ul > li > a:hover{
+    text-decoration: underline ;
+    color: darkgray ;    
+}
+.display{
+    display: none ;
+   /* visibility: hidden ;     bu kod sadece yazının görünür olmasına etki eder yazı görünmesede kaplayacağı boşluğu bırakır*/
+}

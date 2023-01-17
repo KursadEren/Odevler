@@ -1,0 +1,9 @@
+div ~ p{
+    background-color: darksalmon ;
+    padding: 10px ;
+}
+ 
+div ~ h3{
+    background-color: darkred;
+    padding: 10px ; 
+}

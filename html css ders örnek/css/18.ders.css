@@ -1,0 +1,28 @@
+
+.special-text{
+    color: darkorange ; /* color: rgb(255,0,255) */
+    text-align: justify ;
+    text-indent: 50px ;
+}
+
+
+h2{
+    text-align: center ;
+    text-decoration: underline ; /*textdecoration: blink; */
+    /*text-transform: lowercase ;*/
+    text-transform: capitalize ;
+    letter-spacing: 5px ;
+
+}
+
+
+a:hover{
+    text-decoration: none ; /* hover koduyla linkin üstüne gelince altını çizerr*/
+    text-transform: uppercase ;
+}
+
+
+
+
+/* indent = satır başı */
+/* letter spacing = harfler arası boşluk */

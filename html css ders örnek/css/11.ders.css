@@ -1,0 +1,31 @@
+
+p,h1,h2{
+    color: darksalmon;
+}
+h2.center{
+    text-align: center;
+}
+table{
+    border:1px solid aqua;
+}
+.style-table{
+    border:1px solid #666;
+    margin: 15px;
+}
+.style-table td,th{
+    border: 1px solid #667;
+padding: 15px;
+
+}
+.style-table tr{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.style-table th{
+    background-color: blueviolet;
+    color: white;
+    font-size: 35px ;
+
+}
+.style-table td{
+    font-style: italic;
+}

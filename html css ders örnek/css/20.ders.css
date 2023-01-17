@@ -1,0 +1,13 @@
+.sp-color{
+    color: red ;
+}
+.special-text{
+     direction: ltr ;
+     letter-spacing: 1px ;
+     text-transform: capitalize ;
+     text-indent: 50px ;
+     font-style: italic ;  
+}
+h2{
+    text-align: center ;
+}

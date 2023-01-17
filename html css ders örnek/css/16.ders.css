@@ -1,0 +1,19 @@
+.special{
+       padding: 15px ;
+       border: 2px solid darkblue ;     
+       width: 70% ;
+       margin-left: 50px ;
+       margin-top: 40px ;
+      
+
+
+    /*margin: auto ;*/
+    
+
+}
+.sub-special {
+    margin-left :inherit /*miras*/ ;   /*.speciali miras olarak aldı*/
+    padding: inherit ;
+
+}
+/* 16.ders.html deki style="padding:5px!important" etiketi burdaki paddingten daha önemli olduğu için işleve geçerken o kullanılır*/

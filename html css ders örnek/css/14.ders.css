@@ -1,0 +1,25 @@
+.style-border{
+    border-style: solid;
+    padding: 15px ;
+  /*   border-top-width: 2px ;
+    border-right-width: 4px ;
+    border-bottom-width: 6px ;
+    border-left-width: 8px ;  */ 
+
+    /* üstekinin kısa hali altta */
+
+   /* border-width: 2px 4px 6px 8px ; */
+
+    border-width: 8px ;
+
+    /* border-top-color: brown;
+    border-right-color: darkblue;
+    border-bottom-color: darkcyan; 
+    border-bottom-color: darkorange; */
+
+     /* üstekini kısaltması altta*/
+    
+    border-color: brown darkblue darkcyan darkorange;
+
+
+}

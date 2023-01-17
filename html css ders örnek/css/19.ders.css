@@ -1,0 +1,23 @@
+
+.special-text{
+    color: #333 ;
+    line-height: 25px ;
+    /* direction: rtl ;*/
+
+}
+h2{
+    /* direction: ltr ; bir yere hizalama */
+    text-align: center ;
+    text-transform: capitalize ;
+    letter-spacing: 2px;
+    /*  word-spacing: 30px ; keleimler arası boşluk*/
+    /*  text-shadow: 2px 2px 2px darkslategray;    yatayda düşeyde blurluk*/
+}
+
+.special-font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 2em ;
+    font-style: normal ;
+    font-weight: lighter ;
+    font-variant: small-caps ;
+}

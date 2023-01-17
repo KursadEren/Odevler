@@ -1,0 +1,86 @@
+.main{
+    border: 2px solid #333;
+    margin: 5px ;      
+    width: 70% ;
+    height: 400px ;
+    
+}
+
+.main > .box{
+    border: 2px solid #900;     
+    width: 200px ;
+    height: 200px;
+    float: left ;
+    background-color: white ;
+    margin: 30px ;
+    padding: 10px ;
+    position: relative;
+    z-index: 3 ;
+    left: 250px ;
+    top: 70px ;
+}
+
+.main > .box2{
+    border: 2px solid #900;     
+    width: 200px ;
+    height: 200px ;
+    float: left ;
+    background-color: white ;
+    margin: 30px ;
+    padding: 10px ;
+    position: relative ;  position: relative ; 
+    top: 40px ;
+    left:50px ;
+    z-index: 2 ;
+}
+.main > .box3{
+    border: 2px solid #900;     
+    width: 200px ;
+    height: 200px ;
+    float: left ;
+    background-color: white ;
+    margin: 30px ;
+    padding: 10px ;
+      position: relative ; 
+    top: 30px ;
+    left: 150px ;
+    position: relative;
+    z-index: 1 ;
+ 
+} 
+.container{
+    position: relative ;
+}    
+h1{
+    border: 2px solid red;
+    width: 100% ;
+    padding: 15px ;
+    text-align: center ;
+    color: gold ;
+    position: absolute ;
+    z-index: 1 ;
+}
+
+img{
+    width: 100% ;
+    opacity: 0.9 ;
+    z-index: -1 ;
+}
+.position{
+    position: static ;
+    border: 2px solid lightcoral;
+    
+    padding: 15px ;
+    z-index: 3 ;
+
+}
+.fixed{
+    position: fixed ;
+    bottom: 0 ;
+    right: 0 ;
+    border: 2px solid red ;
+    width: 25% ;
+    background-color: gray ;
+    opacity: 0.8 ;
+    color: white ;
+}

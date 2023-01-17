@@ -1,0 +1,27 @@
+.special-table table,th,td{
+    border: 2px solid darkblue ; 
+    
+}
+.special-table{
+    width: 50% ;
+    border-collapse: collapse ;
+    
+}
+.special-table th,td{
+    height: 40px ;
+    text-align: center ;
+}
+.special-table tr{
+    vertical-align: middle ;/*bunun olması için height etketi kullanılmalı*/
+    border-bottom: 2px solid blue ;
+}
+.special-table tr:hover{
+    background-color: rgb(240, 229, 229) ;
+}
+.special-table th{
+    background-color: darkblue ;
+    color: white ;
+}
+.special-table tr:nth-child(even){
+    background-color: tomato;
+}

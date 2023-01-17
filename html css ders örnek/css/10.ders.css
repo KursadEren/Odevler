@@ -1,0 +1,25 @@
+h2{ text-align:center;}
+
+.change{
+    border:1px solid black;
+    background-color: brown;
+    margin-bottom:40px ;
+    margin-top: 50px ;
+}
+#second{
+    border:2px solid black;
+    background-color: darksalmon ;
+    padding: 20px ;
+}
+.link a{
+    color:F00;
+    text-decoration: none ;
+}
+.link a:hover{
+    color: green ;
+     text-decoration: underline ;
+}
+.link a:active{
+    background-color: red;
+    text-decoration: none ;
+}

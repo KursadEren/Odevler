@@ -1,0 +1,30 @@
+li b:first-child{
+    color: #F00 ;
+}
+p:lang(fr){
+    background-color: darkgoldenrod ;
+    padding: 10px ;
+}
+#check:checked{
+    width: 300px ;
+    height: 100px ;
+}
+input[type="email"]:disabled{
+    background-color: darkgoldenrod ;
+    padding: 10px ;
+    color: white ;
+    width: 20% ;
+}
+input[type="text"]:enabled{
+    background-color: darkgoldenrod ;
+    padding: 10px ;
+    color: white ;
+    width: 20% ;
+}   
+input[type="email"]:invalid{
+    border: 2px solid red ;
+    padding: 10px ;   
+    width: 20% ;
+}
+
+

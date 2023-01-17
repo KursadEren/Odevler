@@ -1,0 +1,31 @@
+.main{
+    border: 2px solid #333;
+    margin: 5px ;      
+    width: 70% ;
+    height: 350px ;
+    background-color: peru ;
+}
+
+.main > .box{
+    border: 2px solid #900;     
+    width: 200px ;
+    height: 200px;
+    float: left ;
+    background-color: white ;
+    margin: 30px ;
+    padding: 10px ;
+}
+
+.main > .box2{
+    border: 2px solid #900;     
+    width: 200px ;
+    height: 200px ;
+    float: left ;
+    background-color: white ;
+    margin: 30px ;
+    padding: 10px ;
+    position: absolute ; /* position: relative ; */
+    top: 20px ;
+    left:100px ;
+}
+

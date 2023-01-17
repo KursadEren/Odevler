@@ -1,0 +1,11 @@
+
+.background{
+    background-color: aquamarine; 
+    background-image: url(../NİRVANA\ İMAGES\ 2.jpg) ;
+    background-repeat: no-repeat ;
+    background-position: right top ;
+    background-attachment: fixed;
+
+   /* background: #c6666c url(../NİRVANA\ İMAGES\ 2.jpg) no-repeat right top fixed; */ 
+}
+div{color: #0b2094;}
